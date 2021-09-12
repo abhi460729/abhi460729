@@ -1,5 +1,5 @@
 
-                                                      Software Developer
+                                                       Software Developer
 ◼ **Software Engineer with experience in Backend Development.**
 
 ◼ **Loves Problem Solving, Data Structures, Algorithms and System Design.**
