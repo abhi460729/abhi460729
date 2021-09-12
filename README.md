@@ -25,5 +25,3 @@ ACHIEVEMENTS -------------------------------------------------------------------
 ➢ [LeetCode](https://leetcode.com/striververma/)
 
 ➢ [HackerRank](https://www.hackerrank.com/RA1611008010402)
-  
-➢ First Runner up at Bridge Solutions Group Hackathon 2020 (India and US)
