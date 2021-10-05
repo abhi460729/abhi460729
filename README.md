@@ -6,23 +6,5 @@
 
 📫 Reach me at **abhishek.verma4607@gmail.com**
 
-SKILLS -------------------------------------------------------------------------------------
 
-➢ Languages: C++, Java
-
-➢ IT Constructs: Data Structures and Algorithms, OOPS, DBMS, System Design
-
-➢ Frameworks: Spring
-
-➢ Cloud Technologies: Docker
-
-➢ Database Languages: SQL
-
-ACHIEVEMENTS ---------------------------------------------------------------------------------
-
-➢ Coding Profiles:
-
-➢ [LeetCode](https://leetcode.com/striververma/)
-
-➢ [HackerRank](https://www.hackerrank.com/RA1611008010402)
-
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
