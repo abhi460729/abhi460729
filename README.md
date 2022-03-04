@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **abhishek.verma4607@gmail.com**
 
+- ![](https://komarev.com/ghpvc/?username=abhi460729)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/ra1611008010402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra1611008010402" height="30" width="40" /></a>
