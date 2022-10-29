@@ -1,6 +1,6 @@
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m a passionate **Software Engineer with inclination towards Backend Development**
+- 🌱 I’m a passionate **Engineer with inclination towards Data Science and Backend Engineering**
 
 - 💬 Ask me about **Data Structures, Algorithms and System Design**
 
