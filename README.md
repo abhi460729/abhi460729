@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there! I'm Abhishek Verma :wave:</h3>
 
-![](https://komarev.com/ghpvc/?username=abhi460729)
+        ![](https://komarev.com/ghpvc/?username=abhi460729)
 
 - 🌱 I’m a passionate **Engineer with inclination towards Data Science and Backend Engineering**
 
