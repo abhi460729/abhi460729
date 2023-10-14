@@ -20,7 +20,7 @@ Tools and Libraries: Git, Docker, Postman
 <p align="center">
   <a href="https://linkedin.com/in/ujjwalsharma01">
     <img src="https://raw.githubusercontent.com/abhi460729/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
 </p>
 
 <h3 align="left">My Coding Profiles</h3>
