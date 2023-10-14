@@ -8,8 +8,8 @@ I am currently expanding my knowledge and staying at the forefront of emerging t
 <h3> :rocket: Expertise </h3>
 Programming Languages: Java, Python, JavaScript, SQL </br>
 Frameworks: Machine Learning, Data Science, SpringBoot, Hibernate, ReactJS, Kafka </br>
-Databases: MySQL, Elasticsearch </br>
-Cloud Technologies: AWS (EC2, S3), GCP </br>
+Databases: MySQL, Elasticsearch, Cassandra </br>
+Cloud Technologies: Amazon Web Services (EC2, S3), Google Cloud Platform </br>
 Tools and Libraries: Git, Docker, Postman
 
 ### Let's Connect
