@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I am a passionate data-driven software development
 I am currently expanding my knowledge and staying at the forefront of emerging technologies and industry best practices.
 
 <h3> :rocket: Expertise </h3>
-Programming Languages: Java, Python, JavaScript, SQL
-Frameworks: SpringBoot, ReactJS, Kafka
-Databases: MySQL, Elasticsearch
-Cloud Technologies: AWS (EC2, S3), GCP
+Programming Languages: Java, Python, JavaScript, SQL </br>
+Frameworks: SpringBoot, ReactJS, Kafka </br>
+Databases: MySQL, Elasticsearch </br>
+Cloud Technologies: AWS (EC2, S3), GCP </br>
 Tools and Libraries: Git, Docker, Postman
 
 <h3 align="left">Let's Connect</h3>
