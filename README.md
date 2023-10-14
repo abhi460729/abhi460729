@@ -18,7 +18,7 @@ Tools and Libraries: Git, Docker, Postman
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ujjwalsharma01">
+  <a href="https://linkedin.com/in/abhi460729">
     <img src="https://raw.githubusercontent.com/abhi460729/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
   </a>
 </p>
