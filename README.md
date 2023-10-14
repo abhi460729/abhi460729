@@ -1,12 +1,14 @@
 <h3 align="center"> Hi there! I'm Abhishek Verma</h3>
 
+- ![](https://komarev.com/ghpvc/?username=abhi460729)
+
 - 🌱 I’m a passionate **Engineer with inclination towards Data Science and Backend Engineering**
 
 - 💬 Ask me about **Data Structures, Algorithms and System Design**
 
 - 📫 How to reach me **abhishek.verma4607@gmail.com**
 
-- ![](https://komarev.com/ghpvc/?username=abhi460729)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
