@@ -1,13 +1,7 @@
 <h3 align="center"> Hi there! I'm Abhishek Verma :wave:</h3>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=abhi460729&style=flat-square&color=blue" alt=""/> </div>
 
-        
-
-- 🌱 I’m a passionate **Engineer with inclination towards Data Science and Backend Engineering**
-
-- 💬 Ask me about **Data Structures, Algorithms and System Design**
-
-- 📫 How to reach me **abhishek.verma4607@gmail.com**
+Welcome to my GitHub profile! I am a passionate data-driven software development engineer with a strong background in full stack development, data science and machine learning track.
 
 
 
