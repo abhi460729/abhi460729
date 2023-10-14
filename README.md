@@ -1,11 +1,9 @@
 <h3 align="center"> Hi there! I'm Abhishek Verma :wave:</h3>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=abhi460729&style=flat-square&color=blue" alt=""/> </div>
 
-Welcome to my GitHub profile! I am a passionate data-driven software development engineer with a strong background in full stack development, data science, machine learning and cloud computing track. Skilled in Java, Python, JavaScript, and SQL, with expertise in frameworks like SpringBoot, ReactJS and Kafka. Experienced in delivering scalable solutions and collaborating effectively with multidisciplinary teams.
+Welcome to my GitHub profile! I am a passionate data-driven software development engineer with a strong background in full stack development, data science, machine learning and cloud computing track. Skilled in Java, Python, JavaScript, and SQL, with expertise in frameworks like SpringBoot, Hibernate, ReactJS and Kafka. Experienced in delivering scalable solutions and collaborating effectively with multidisciplinary teams.
 
 I am currently expanding my knowledge and staying at the forefront of emerging technologies and industry best practices.
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
