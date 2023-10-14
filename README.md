@@ -12,10 +12,18 @@ Databases: MySQL, Elasticsearch </br>
 Cloud Technologies: AWS (EC2, S3), GCP </br>
 Tools and Libraries: Git, Docker, Postman
 
-<h3 align="left">Let's Connect</h3>
-<p align="centre">
-<a href="https://www.hackerrank.com/ra1611008010402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra1611008010402" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/striververma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="striververma" height="30" width="40" /></a>
+### Let's Connect
+<p align="center">
+  You can find me on:
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ujjwalsharma01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/sharma_ujjwal01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
+  </a>
 </p>
 
 <h3 align="left">My Coding Profiles</h3>
