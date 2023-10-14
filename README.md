@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there! I'm Abhishek Verma :wave:</h3>
-<div text-align="centre"> <img src="https://komarev.com/ghpvc/?username=abhi460729&style=flat-square&color=blue" alt=""/> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=abhi460729&style=flat-square&color=blue" alt=""/> </div>
 
         
 
