@@ -7,7 +7,7 @@ I am currently expanding my knowledge and staying at the forefront of emerging t
 
 <h3> :rocket: Expertise </h3>
 Programming Languages: Java, Python, JavaScript, SQL </br>
-Frameworks: Machine Learning, Data Science, SpringBoot, ReactJS, Kafka </br>
+Frameworks: Machine Learning, Data Science, SpringBoot, Hibernate, ReactJS, Kafka </br>
 Databases: MySQL, Elasticsearch </br>
 Cloud Technologies: AWS (EC2, S3), GCP </br>
 Tools and Libraries: Git, Docker, Postman
@@ -23,7 +23,7 @@ Tools and Libraries: Git, Docker, Postman
   </a>
 </p>
 
-<h3 align="left">My Coding Profiles</h3>
+### My Coding Profiles
 <p align="centre">
 <a href="https://www.hackerrank.com/ra1611008010402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra1611008010402" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/striververma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="striververma" height="30" width="40" /></a>
