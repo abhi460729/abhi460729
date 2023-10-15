@@ -10,7 +10,7 @@ Programming Languages: Java, Python, JavaScript, SQL </br>
 Frameworks: Machine Learning, Data Science, SpringBoot, Hibernate, ReactJS, Kafka </br>
 Databases: MySQL, Elasticsearch, Cassandra </br>
 Cloud Technologies: Amazon Web Services (EC2, S3), Google Cloud Platform, Docker, Kubernetes </br>
-Tools and Libraries: Git, Docker, Postman
+Tools and Libraries: Git, Docker, Postman </br>
 Architectures: Monolith, Microservice
 
 ### Let's Connect
