@@ -9,8 +9,9 @@ I am currently expanding my knowledge and staying at the forefront of emerging t
 Programming Languages: Java, Python, JavaScript, SQL </br>
 Frameworks: Machine Learning, Data Science, SpringBoot, Hibernate, ReactJS, Kafka </br>
 Databases: MySQL, Elasticsearch, Cassandra </br>
-Cloud Technologies: Amazon Web Services (EC2, S3), Google Cloud Platform </br>
+Cloud Technologies: Amazon Web Services (EC2, S3), Google Cloud Platform, Docker, Kubernetes </br>
 Tools and Libraries: Git, Docker, Postman
+Architectures: Monolith, Microservice
 
 ### Let's Connect
 <p align="center">
