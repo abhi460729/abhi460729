@@ -32,3 +32,6 @@ Architectures: Monolith, Microservice
 <a href="https://www.hackerrank.com/ra1611008010402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra1611008010402" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/striververma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="striververma" height="30" width="40" /></a>
 </p>
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/adaptive-action-duration-with-contextual/reinforcement-learning-atari-games-on)](https://paperswithcode.com/sota/reinforcement-learning-atari-games-on?p=adaptive-action-duration-with-contextual)
+
