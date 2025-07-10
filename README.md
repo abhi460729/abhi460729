@@ -34,3 +34,8 @@ Architectures: Monolith, Microservice
 
 ### My Badges
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/adaptive-action-duration-with-contextual/reinforcement-learning-atari-games-on)](https://paperswithcode.com/sota/reinforcement-learning-atari-games-on?p=adaptive-action-duration-with-contextual)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalized-adaptive-transfer-network/mujoco-on-mujoco)](https://paperswithcode.com/sota/mujoco-on-mujoco?p=generalized-adaptive-transfer-network)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/generalized-adaptive-transfer-network/atari-games-on-atari-pong)](https://paperswithcode.com/sota/atari-games-on-atari-pong?p=generalized-adaptive-transfer-network)
+
